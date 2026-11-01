@@ -1,20 +1,30 @@
-# IRSHA — Final Year Project Studio
+# IRSHA – Final Year Project Studio 🚀
 
-Standalone marketing site (React + TypeScript + Tailwind CSS v4 + Framer Motion + Lucide).
-Separate from any other IRSHA website: own folder, own dependencies, own build output.
+**Your Project Idea. Our Technical Expertise.**
 
-## Commands
-- `npm install`
-- `npm run dev` — local dev server
-- `npm run build` — type-check + production build into `dist/` (static files, deploy anywhere)
-- `npm run preview` — serve the production build locally
+IRSHA is a modern, premium 3D website designed to connect with B.Tech final-year students who need technical guidance and project development support.
 
-## Where things are
-- `src/lib/links.ts` — Instagram URL/handle and nav links (single source of truth)
-- `src/lib/content.ts` — all copy: services, domains, steps, reasons, FAQs
-- `src/components/hero/` — 3D hero slider (CSS 3D transforms + Framer Motion springs)
-- `src/sections/` — page sections
+The platform showcases project domains, development services and technical capabilities through an interactive user experience and immersive 3D visuals.
 
-## Notes
-- The hero 3D is built with CSS 3D transforms, not Spline (no Spline scene URL was available).
-- Respects `prefers-reduced-motion`; falls back to a flat layout if CSS 3D is unsupported.
+### Services
+- AI & Machine Learning Projects
+- Full-Stack Web Development
+- Java & Python Projects
+- Database Design & Integration
+- Project Documentation & Technical Guidance
+- Project Demonstration Preparation
+
+### Key Features
+- Interactive 3D hero card slider
+- Modern responsive design
+- Smooth animations and transitions
+- Premium UI/UX experience
+- Project domain showcase
+- Instagram integration for inquiries
+
+### Brand
+**IRSHA – Final Year Project Studio**
+
+Instagram: https://www.instagram.com/irsha.ai/
+
+*Let's Build Something Great!*
